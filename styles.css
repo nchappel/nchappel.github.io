@@ -1,0 +1,24 @@
+.para {
+  font-size: 25px;
+}
+
+#mydiv {
+  background-color: yellow;
+  width: 300px;
+  border: 25px solid green;
+  padding: 25px;
+  margin: 25px;
+  position: fixed;
+  bottom: 0;
+  right: 0;
+}
+
+#klemp {
+  position: absolute;
+  top: 0px;
+  right: 30;
+}
+
+.myimage {
+  float: left;
+}
